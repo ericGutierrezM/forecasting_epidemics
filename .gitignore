@@ -9,4 +9,5 @@ wheels/
 # Virtual environments
 .venv
 
-.DS_Store
+# Big files
+data/regressors.csv
